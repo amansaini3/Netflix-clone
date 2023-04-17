@@ -304,15 +304,12 @@ input[type="radio"] {
 
     .email-signup button {
         font-size: 10px;
-<<<<<<< HEAD
         padding: 3px 32px;
 
     }
     .email-signup button i {
         visibility: hidden;
-=======
-        padding: 5px 30px;
->>>>>>> 20a057a47064ecf34753afd306fbcd476fe866c8
+
 
     }
 
