@@ -298,21 +298,21 @@ input[type="radio"] {
     }
 
     .header-content h1 {
-        font-size: 28px;
-        line-height: 40px;
+        font-size: 29px;
+        line-height: 50px;
         
     }
     
 
     .email-signup button {
-        font-size: 13px;
+        font-size: 14px;
         padding: 3px 3px;
 
     }
-    .email-signup button i {
+    /* .email-signup button i {
         visibility: hidden;
 
-    }
+    } */
 
     .email-signup input{
         margin-left: 12px;
