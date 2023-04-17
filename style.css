@@ -294,16 +294,22 @@ input[type="radio"] {
         position: unset;
         transform: none;
         padding-top: 150px;
+        text-align: left;
     }
 
     .header-content h1 {
-        font-size: 30px;
+        font-size: 28px;
+        line-height: 50px;
     }
 
     .email-signup button {
-        font-size: 12px;
-        padding: 10px 15px;
+        font-size: 9px;
+        padding: 10px 6px;
 
+    }
+
+    .email-signup input{
+        margin-left: 12px;
     }
 
     .text-col,
