@@ -221,7 +221,7 @@ input[type="radio"] {
 }
 
 .faq .email-signup {
-    max-width: 600px;
+    max-width: 550px;
     margin: 20px auto 60px;
 }
 
@@ -293,26 +293,25 @@ input[type="radio"] {
     .header-content {
         position: unset;
         transform: none;
-        padding-top: 150px;
+        padding-top: 100px;
         text-align: left;
     }
 
     .header-content h1 {
         font-size: 28px;
-        line-height: 50px;
+        line-height: 40px;
+        
     }
+    
 
     .email-signup button {
         font-size: 10px;
-<<<<<<< HEAD
-        padding: 3px 32px;
+        padding: 3px 13px;
+        text-align: left;
 
     }
     .email-signup button i {
-        visibility: hidden;
-=======
-        padding: 5px 30px;
->>>>>>> 20a057a47064ecf34753afd306fbcd476fe866c8
+        display: none;
 
     }
 
