@@ -293,13 +293,13 @@ input[type="radio"] {
     .header-content {
         position: unset;
         transform: none;
-        padding-top: 80px;
+        padding-top: 50px;
         text-align: left;
     }
 
     .header-content h1 {
         font-size: 30px;
-        line-height: 64px;
+        line-height: 65px;
         
     }
     .header-content h3 {
