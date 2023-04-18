@@ -293,27 +293,23 @@ input[type="radio"] {
     .header-content {
         position: unset;
         transform: none;
-        padding-top: 100px;
+        padding-top: 110px;
         text-align: left;
     }
 
     .header-content h1 {
         font-size: 29px;
-        line-height: 50px;
+        line-height: 75px;
         
     }
     
 
     .email-signup button {
         font-size: 14px;
-        padding: 3px 3px;
+        padding: 9px 4px;
 
     }
-    /* .email-signup button i {
-        visibility: hidden;
-
-    } */
-
+     
     .email-signup input{
         margin-left: 12px;
         width: calc(100% - 50%);
