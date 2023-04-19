@@ -275,6 +275,11 @@ input[type="radio"] {
 
 }
 
+/* ....hover effect........   */
+nav .sign-in:hover, .email-signup button:hover{
+    background: #cb2424;
+}
+
 /* .....media-queries.....  */
 
 @media only screen and (max-width: 600px) {
